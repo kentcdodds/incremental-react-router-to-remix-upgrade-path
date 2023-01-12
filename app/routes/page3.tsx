@@ -6,7 +6,7 @@ export default function Page3() {
       <main>
         <p>Page 3 (remix)</p>
 
-        <Link to="/page2">Go home (remix)</Link>
+        <Link to="/">Go home (remix)</Link>
         <br />
         <Link to="/page3">Go to page 3 (remix)</Link>
         <br />
